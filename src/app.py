@@ -78,7 +78,7 @@ activities = {
         "max_participants": 14,
         "participants": ["benjamin@mergington.edu", "harper@mergington.edu"]
     }
-}
+} 
 
 
 @app.get("/")
